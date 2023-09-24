@@ -1,0 +1,12 @@
+C:\Users\zack3r\Desktop\UAC\bin\Release\ClassLibrary.dll
+C:\Users\zack3r\Desktop\UAC\bin\Release\ClassLibrary.pdb
+C:\Users\zack3r\Desktop\UAC\bin\Release\Orcus.Plugins.dll
+C:\Users\zack3r\Desktop\UAC\bin\Release\Orcus.Shared.dll
+C:\Users\zack3r\Desktop\UAC\bin\Release\Orcus.Plugins.pdb
+C:\Users\zack3r\Desktop\UAC\bin\Release\Orcus.Shared.pdb
+C:\Users\zack3r\Desktop\UAC\bin\Release\de\Orcus.Plugins.resources.dll
+C:\Users\zack3r\Desktop\UAC\obj\Release\Orcus.Plugins.UAC.csproj.AssemblyReference.cache
+C:\Users\zack3r\Desktop\UAC\obj\Release\Orcus.Plugins.UAC.csproj.CoreCompileInputs.cache
+C:\Users\zack3r\Desktop\UAC\obj\Release\Orcus.Plugins.UAC.csproj.CopyComplete
+C:\Users\zack3r\Desktop\UAC\obj\Release\ClassLibrary.dll
+C:\Users\zack3r\Desktop\UAC\obj\Release\ClassLibrary.pdb

